@@ -1,2 +1,2 @@
-# ivoproject
-A quick project for a login page
+# cgac project
+A quick project for the church's  webpages. God help me
